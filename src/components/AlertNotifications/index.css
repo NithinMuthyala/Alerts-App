@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.text1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #2dca73;
+  font-size: 22px;
+  font-weight: 500;
+}
+.text2 {
+  color: #ff0b37;
+}
+.text3 {
+  color: #ffb800;
+}
+.text4 {
+  color: #0f81e0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon1 {
+  color: #2dca73;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.icon2 {
+  color: #ff0b37;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.icon3 {
+  color: #ffb800;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.icon4 {
+  color: #0f81e0;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.app-cont {
+  display: flex;
+}
+.text-container {
+  margin-left: 17px;
+}
